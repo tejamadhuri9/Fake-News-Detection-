@@ -1,4 +1,9 @@
-flask
+streamlit
 numpy
 pandas
 scikit-learn
+joblib
+requests
+beautifulsoup4
+Pillow
+
